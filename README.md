@@ -2,7 +2,7 @@
 
 This is the artifact orangization for `Fuzzilli: Fuzzing for JavaScript JIT Compiler Vulnerabilities`. 
 Our intention is to provide the required raw data and code to enable interested third parties and future researcher to perform replication of our results or otherwise enhance this area of research.
-If there is information missing or you have questions, feel free to contact us via an issue in this repository or by writing us directly.
+If there is information missing or you have questions, feel free to contact us via an issue in this repository or by writing us directly. Simon Koch is your first line of contact.
 
 ```
 @inproceedings{ndss.2023.24290,
